@@ -19,6 +19,7 @@
   <img align="center" alt="Thiago-MySQL" height="30" width="40" src="https://img.shields.io/badge/MySQL-00000F?style=for-the-badge&logo=mysql&logoColor=white">
   <img align="center" alt="Thiago-AWS" height="30" width="40" src="https://img.shields.io/badge/Amazon_AWS-232F3E?style=for-the-badge&logo=amazon-aws&logoColor=white">
   <img align="right" alt="Ludacris-FastAndFurious" src="https://media4.giphy.com/media/1MSdG5XZTEs36/200w.gif?cid=82a1493bk3jm86zvv76cho5g8lv8bzkidqlypf0hrhgehs6w&rid=200w.gif&ct=g">
+  <img align="right" alt="LudacrisAndRomanPearce" src="http://www.grillwilson.biz/site/wp-content/uploads/2014/08/FF3_59_gif_thumb.gif">
 </div>
 
    ##
@@ -26,7 +27,9 @@
 <div> 
  <a href="https://www.youtube.com/channel/" target="_blank"><img src="https://img.shields.io/badge/YouTube-FF0000?style=for-the-badge&logo=youtube&logoColor=white" target="_blank"></a>
   <a href = "mailto: thiagossilvacontato@gmail.com"><img src="https://img.shields.io/badge/-Gmail-%23333?style=for-the-badge&logo=gmail&logoColor=white" target="_blank"></a>
-  <a href="https://www.linkedin.com/in/thiagodossantossilva" target="_blank"><img src="https://img.shields.io/badge/-LinkedIn-%230077B5?style=for-the-badge&logo=linkedin&logoColor=white" target="_blank"></a> 
+  <a href="https://www.linkedin.com/in/thiagodossantossilva" target="_blank"><img src="https://img.shields.io/badge/-LinkedIn-%230077B5?style=for-the-badge&logo=linkedin&logoColor=white" target="_blank"></a>
+ 
+ 
  
   ![Snake animation](https://github.com/thiagossilva17/thiagossilva17/blob/output/github-contribution-grid-snake.svg)
  
