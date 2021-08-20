@@ -18,7 +18,6 @@
   <img align="center" alt="Thiago-PowerBI" height="30" width="40" src="https://img.icons8.com/color/452/power-bi.png">
   <img align="center" alt="Thiago-MySQL" height="30" width="40" src="https://img.shields.io/badge/MySQL-00000F?style=for-the-badge&logo=mysql&logoColor=white">
   <img align="center" alt="Thiago-AWS" height="30" width="40" src="https://img.shields.io/badge/Amazon_AWS-232F3E?style=for-the-badge&logo=amazon-aws&logoColor=white">
-  <img align="right" alt="RomanPearce" src="https://64.media.tumblr.com/6171955a7259e6bc9c370ff3aa99f138/tumblr_nr5u0eV8ah1tpkw4ko6_400.gifv">
   </div>
 
    ##
