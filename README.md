@@ -1,8 +1,8 @@
-### Bem Vindo! Eu sou o Thiago Silva 👋
+### Olá! Eu sou o Thiago Silva, seja bem vindo ao meu perfil 👋
 
 
-- 🔭 Hoje estou trabalhando com Estatística
-- 🌱 Estudando Machine Learning
+- 🔭 Hoje trabalho como analista de Data analytics junior no banco Santander Brasil
+- 🌱 Estudo Estatística na FMU e Ciência de dados nas horas vagas
 - 😄 Pronouns: ele/dele ...
 -->
 
@@ -17,7 +17,6 @@
   <img align="center" alt="Thiago-Python" height="30" width="40" src="https://raw.githubusercontent.com/devicons/devicon/master/icons/python/python-original.svg">
   <img align="center" alt="Thiago-PowerBI" height="30" width="40" src="https://img.icons8.com/color/452/power-bi.png">
   <img align="center" alt="Thiago-MySQL" height="30" width="40" src="https://img.shields.io/badge/MySQL-00000F?style=for-the-badge&logo=mysql&logoColor=white">
-  <img align="center" alt="Thiago-AWS" height="30" width="40" src="https://img.shields.io/badge/Amazon_AWS-232F3E?style=for-the-badge&logo=amazon-aws&logoColor=white">
   </div>
 
    ##
