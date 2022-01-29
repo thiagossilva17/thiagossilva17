@@ -8,6 +8,8 @@ Sou analista de dados com experiências nas maiores instituições financeiras d
 
 ________________________________________________________________________________________________________________________________________________________________________
 
+### Hi! I'm Thiago Silva, welcome to my profile 👋
+
 I am from data with experiences in financial institutions in Latin America such as Itaú Unibanco and Santander. I try to solve business problems with the support of technologies oriented towards data analysis.
 
 ▸Technologies I often use to solve data problems: → Excel, VBA, SQL, R, Python, Power BI and Tableau.
