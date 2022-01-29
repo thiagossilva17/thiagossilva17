@@ -1,10 +1,25 @@
 ### Olá! Eu sou o Thiago Silva, seja bem vindo ao meu perfil 👋
 
+Sou analista de dados com experiências nas maiores instituições financeiras da América Latina como Itaú Unibanco e Santander Brasil. Procuro resolver problemas de negócios com o apoio de tecnologias orientadas a análise de dados.
 
-- 🔭 Hoje trabalho como analista de Data analytics junior no banco Santander Brasil
-- 🌱 Estudo Estatística na FMU e Ciência de dados nas horas vagas
-- 😄 Pronouns: ele/dele ...
--->
+▸Tecnologias que utilizo com frequência: → Excel, VBA, SQL, R, Python, Power BI e Tableau.
+
+▸Conheça meus projetos públicos no Github: → https://github.com/thiagossilva17
+
+▸Fale comigo: E-mail: thiagossilvacontato@gmail.com Celular: (+55) 11 953483668
+
+________________________________________________________________________________________________________________________________________________________________________
+
+I am from data with experiences in financial institutions in Latin America such as Itaú Unibanco and Santander. I try to solve business problems with the support of technologies oriented towards data analysis.
+
+▸Technologies I often use to solve data problems: → Excel, VBA, SQL, R, Python, Power BI and Tableau.
+
+▸See ​​my public projects on Github: → https://github.com/thiagossilva17
+
+▸Talk to me: Email: thiagossilvacontato@gmail.com Mobile: (+55) 11 953483668
+
+_________________________________________________________________________________________________________________________________________________________________________
+
 
  <div>
   <a href="https://github.com/thiagossilva17">
