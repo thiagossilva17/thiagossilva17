@@ -1,20 +1,11 @@
-### Olá! Eu sou o Thiago Silva, seja bem vindo ao meu perfil 👋
-
-Sou analista de dados com experiências nas maiores instituições financeiras da América Latina como Itaú Unibanco e Santander Brasil. Procuro resolver problemas de negócios com o apoio de tecnologias orientadas a análise de dados.
-
-▸Tecnologias que utilizo com frequência: → Excel, VBA, SQL, R, Python, Power BI e Tableau.
-
-▸Fale comigo: E-mail: thiagossilvacontato@gmail.com Celular: (+55) 11 953483668
-
-________________________________________________________________________________________________________________________________________________________________________
-
 ### Hi! I'm Thiago Silva, welcome to my profile 👋
 
-I am from data with experiences in financial institutions in Latin America such as Itaú Unibanco and Santander. I try to solve business problems with the support of technologies oriented towards data analysis.
 
-▸Technologies I often use to solve data problems: → Excel, VBA, SQL, R, Python, Power BI and Tableau.
+Data Analyst and Data Scientist with 7+ years of experience delivering data-driven insights and building predictive models across financial services, insurance, and operational sectors. Skilled in transforming raw data into actionable business strategies through machine learning, statistical analysis, and data visualization. Experienced in working collaboratively with technical and non-technical teams to drive informed decision-making. Open to opportunities across industries to apply data expertise and generate impactful results.
 
-▸Talk to me: Email: thiagossilvacontato@gmail.com Mobile: (+55) 11 953483668
+▸Talk to me: 
+Email: thiagossilvacontato@gmail.com
+Mobile: (+55) 11 953483668
 
 _________________________________________________________________________________________________________________________________________________________________________
 
